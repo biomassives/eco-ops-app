@@ -8,7 +8,7 @@
   6. copy your "API Key" (anon public) to SUPABASE_KEY below
 *************************************************************/
 export const keys = {
-    SUPABASE_URL: 'https://********************.supabase.co',
-    SUPABASE_KEY: '***************************************************************************************************************************************************'
+    SUPABASE_URL: 'https://kebokyxrohcrwfwfubra.supabase.co',
+    SUPABASE_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtlYm9reXhyb2hjcndmd2Z1YnJhIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY1NTMwOTczMSwiZXhwIjoxOTcwODg1NzMxfQ.wAxMUOL-ZftMVQeGkbQJi2TXhhYIt7-hVLgX3S1PxAU'
   };
   
