@@ -2,6 +2,47 @@
 
 A complete working example application using the Ionic Angular framework for the front end and Supbase (powered by PostgreSQL) on the backend.
 
+Mamawatoto DAO	
+{userHandle}	
+Your NFTs	
+Reminders	
+Mamawatoto radio	
+Groups Accounts	
+Record keeping	
+Working agreements	
+Tasks	
+Carbon Accounting	
+Project Expense Log	
+Jobs/ Bounties	
+Participation awards	
+Security settings	
+Project mission	
+Verification Process	
+MyLunch Forum	
+Get Help	
+	
+Plant Care Log	
+Herbal Medicine Garden	
+Bicycle DAO	
+Votes	
+Proposals	
+Public Events	
+Podcasts	
+Calendar	
+Resources	
+Tutorials	
+	
+	
+Garbage mapping	
+Plant Nursery	
+Solar	
+Plastic Burn Abatement	
+Crop Soil Improvement	
+Sanitation	
+Drinking Water	
+	
+
+
 
 [Live Demo](https://ionic-angular-supabase-starter.vercel.app/)
 
